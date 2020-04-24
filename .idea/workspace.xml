@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d2657f4-5ad6-4173-9d2c-a68a88785a15" name="默认的" comment="默认的">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/FileC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Hero/AD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Hero/ADHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Hero/AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Hero/APHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Hero/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Hero/HealHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Hero/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Hero/HeroHealException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Hero/Treament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Item/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Item/AttackItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Item/DefenceItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Item/ExpendItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Item/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Item/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/PublicValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/study/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/App$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/App$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/FileC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Hero/AD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Hero/ADHero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Hero/AP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Hero/APHero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Hero/CustomException$FileNotMatching.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Hero/CustomException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Hero/HealHero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Hero/Hero$BattleScore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Hero/Hero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Hero/HeroHealException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Hero/Treament.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Item/Account$MoneyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Item/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Item/AttackItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Item/DefenceItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Item/ExpendItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Item/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/Item/Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/study/PublicValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/study/AppTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Programing_Related\Program Code Library\Java\How2JTest" />
+        <option value="D:\Programing_Related\Program Code Library\Java\How2JTest\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T08DNDZwWeasGQK2u8GxGMYDQL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.AppTest">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.App" />
+      <module name="How2JTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.AppTest" />
+      <module name="How2JTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppTest" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d2657f4-5ad6-4173-9d2c-a68a88785a15" name="默认的" comment="" />
+      <created>1572585532040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572585532040</updated>
+      <workItem from="1572585534892" duration="644000" />
+      <workItem from="1572594818672" duration="520000" />
+      <workItem from="1572769013571" duration="162000" />
+      <workItem from="1572770870380" duration="122000" />
+      <workItem from="1572771111052" duration="414000" />
+      <workItem from="1572771618348" duration="350000" />
+      <workItem from="1572773917762" duration="5046000" />
+      <workItem from="1572916407819" duration="716000" />
+      <workItem from="1572918457760" duration="10474000" />
+      <workItem from="1573363475084" duration="2037000" />
+      <workItem from="1573435656490" duration="5124000" />
+      <workItem from="1573463428670" duration="594000" />
+      <workItem from="1574126225719" duration="1228000" />
+      <workItem from="1575081272233" duration="10000" />
+      <workItem from="1575081633868" duration="2490000" />
+      <workItem from="1579155457110" duration="658000" />
+      <workItem from="1579167836047" duration="3352000" />
+      <workItem from="1584172232861" duration="464000" />
+      <workItem from="1587626874790" duration="5809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="111" key="#HTTP_Proxy" timestamp="1579170318393">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="111" key="#HTTP_Proxy/0.0.1600.870@0.0.1600.870" timestamp="1579170318393" />
+    <state x="646" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579168097940">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="646" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.870@0.0.1600.870" timestamp="1579168097940" />
+    <state x="579" y="294" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587626880679">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="579" y="294" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.870@0.0.1600.870" timestamp="1587626880679" />
+    <state x="337" y="28" key="CommitChangelistDialog2" timestamp="1587714482366">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="337" y="28" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1587714482366" />
+    <state x="621" y="331" width="382" height="207" key="Github.CreateGistDialog" timestamp="1587714009038">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="621" y="331" width="382" height="207" key="Github.CreateGistDialog/0.0.1600.870@0.0.1600.870" timestamp="1587714009038" />
+    <state x="667" y="326" width="273" height="218" key="Github.ShareDialog" timestamp="1587714218154">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="667" y="326" width="273" height="218" key="Github.ShareDialog/0.0.1600.870@0.0.1600.870" timestamp="1587714218154" />
+    <state x="501" y="140" key="Github.UntrackedFilesDialog" timestamp="1587714229426">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="501" y="140" key="Github.UntrackedFilesDialog/0.0.1600.870@0.0.1600.870" timestamp="1587714229426" />
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom" timestamp="1587627015332">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1587627015332" />
+    <state width="1557" height="226" key="GridCell.Tab.0.center" timestamp="1587627015331">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1587627015331" />
+    <state width="1557" height="226" key="GridCell.Tab.0.left" timestamp="1587627015331">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1587627015331" />
+    <state width="1557" height="226" key="GridCell.Tab.0.right" timestamp="1587627015332">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1587627015332" />
+    <state x="330" y="90" key="Maven.ArtifactSearchDialog" timestamp="1579174575125">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="330" y="90" key="Maven.ArtifactSearchDialog/0.0.1600.870@0.0.1600.870" timestamp="1579174575125" />
+    <state x="389" y="99" key="SettingsEditor" timestamp="1587713602832">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="301" y="77" key="SettingsEditor/0.0.1600.870/1600.-702.1920.1050@0.0.1600.870" timestamp="1579155501750" />
+    <state x="389" y="99" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1587713602832" />
+    <state x="392" y="168" key="Vcs.Push.Dialog.v2" timestamp="1587714366219">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="168" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1587714366219" />
+    <state x="92" y="92" width="1416" height="686" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1587714176490">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="92" y="92" width="1416" height="686" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1600.870@0.0.1600.870" timestamp="1587714176490" />
+    <state x="480" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1579167836304">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="480" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.870@0.0.1600.870" timestamp="1579167836304" />
+    <state x="174" y="45" key="new project wizard" timestamp="1579170732869">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="174" y="45" key="new project wizard/0.0.1600.870@0.0.1600.870" timestamp="1579170732869" />
+    <state x="456" y="198" key="run.anything.popup" timestamp="1587713664281">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="456" y="198" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1587713664281" />
+  </component>
+</project>
